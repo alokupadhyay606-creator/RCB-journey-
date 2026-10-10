@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Journey of RCB</title>
+<style>
+  body {
+    background: linear-gradient(to right, #ff0000, #000000,#0000ff,#990066);
+    color: white;
+    font-family: Arial, sans-serif;
+    padding: 20px;
+  }
+  h1 {
+    text-align: center;
+    font-size: 3rem;
+  }
+  .box {
+    background: rgba(0,0,0,0.6);
+    padding: 20px;
+    border-radius: 15px;
+  }
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 15px;
+  }
+  th, td {
+    border: 1px solid white;
+    padding: 8px;
+    text-align: center;
+  }
+  th {
+    background: #ff0000;
+  }
+</style>
+</head>
+<body>
+
+<h1>JOURNEY OF RCB</h1>
+
+<div class="box">
+<p>Royal Challengers Bengaluru (RCB) is one of the most popular teams of the Indian Premier League. The team was founded in 2008 and is based in Bengaluru, Karnataka. Its motto is "Ee Sala Cup Namde" which means "This year, the cup is ours".</p>
+
+<p>RCB is known for its loyal fans and star players like Virat Kohli, AB de Villiers, and Faf du Plessis. For many years RCB reached the finals 3 times but could not win the trophy. Finally, after 18 years of waiting, RCB won their maiden IPL title in 2025 by defeating Punjab Kings by 6 runs in the final at Ahmedabad, under captain Rajat Patidar. In 2026 they won again and became champions for the second time.</p>
+
+<p>RCB is not just a team, it is an emotion for crores of fans who support the team every year in red and black jersey.</p>
+
+<h3>Here is RCB's position in every IPL season:</h3>
+<table>
+<tr><th>Season</th><th>Position</th></tr>
+<tr><td>2008</td><td>7th</td></tr>
+<tr><td>2009</td><td>2nd - Runners-up</td></tr>
+<tr><td>2010</td><td>3rd</td></tr>
+<tr><td>2011</td><td>2nd - Runners-up</td></tr>
+<tr><td>2012</td><td>5th</td></tr>
+<tr><td>2013</td><td>5th</td></tr>
+<tr><td>2014</td><td>7th</td></tr>
+<tr><td>2015</td><td>3rd</td></tr>
+<tr><td>2016</td><td>2nd - Runners-up</td></tr>
+<tr><td>2017</td><td>8th (Last)</td></tr>
+<tr><td>2018</td><td>6th</td></tr>
+<tr><td>2019</td><td>8th (Last)</td></tr>
+<tr><td>2020</td><td>4th</td></tr>
+<tr><td>2021</td><td>3rd</td></tr>
+<tr><td>2022</td><td>4th</td></tr>
+<tr><td>2023</td><td>6th</td></tr>
+<tr><td>2024</td><td>4th</td></tr>
+<tr><td>2025</td><td>1st - Champions</td></tr>
+<tr><td>2026</td><td>1st - Champions</td></tr>
+</table>
+  <video controls autoplay loop muted width="100%">
+    <source src="https://files.catbox.moe/m9p1u2.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+
+<p><b>Summary:</b><br>
+Champions: 2 times (2025, 2026)<br>
+Runners-up: 3 times (2009, 2011, 2016)<br>
+Playoff / Top 4: 8 times</p>
+  <h2 style="text-align:center;">Prime form of RCB</h2>
+<p>The prime RCB was 2015-2016, and it was pure box-office cricket.
+
+It was the only team in IPL history where you had *Virat Kohli - the Chase Machine*, *Chris Gayle - the Universe Boss*, and *Mr. 360 AB de Villiers* in the same top 3. If one didn't get you, the next one absolutely would.
+
+Gayle would give you that terrifying start - 30 balls 60, just standing and dispatching. Then AB would walk in and do things that defied physics - scoops, reverse sweeps, 360-degree sixes that left bowlers clueless. And then there was Kohli in 2016, in the form of his life - 973 runs in a single season, 4 hundreds, chasing like a man possessed
+
+That trio wasn't just batting, it was an event. Chinnaswamy would be shaking, 40,000 people chanting RCB-RCB, and any total under 200 felt 50 runs short. They didn't win the trophy then, but that team is why a whole generation still supports RCB - fearless, entertaining, and absolutely unstoppable on their day.</p>
+  <img src="trio.jpg" style="width:100%; border-radius:12px;">
+<img src="virat-emotional.jpg" style="width:100%; border-radius:12px;">
+<img src="trophy.jpg" style="width:100%; border-radius:12px;">
+<img src="class2026.jpg" style="width:100%; border-radius:12px;">
+</div>
+
+</body>
+</html>
